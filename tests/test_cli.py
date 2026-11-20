@@ -1,5 +1,3 @@
-"""Перевірка CLI-команд через запуск окремих Python-процесів."""
-
 import os
 import subprocess
 import sys
