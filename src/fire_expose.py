@@ -1,5 +1,3 @@
-"""Надати доступ до функцій із utils.py через Python Fire."""
-
 import fire
 
 from utils import greet, goodbye
